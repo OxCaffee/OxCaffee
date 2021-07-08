@@ -7,6 +7,14 @@ _______         _________         _____  _____                  _____  .__ __
         \/      \/       \/     \/                 \/     \/          \/        \/      
 ```
 
+✨个人努力学习清单( 持续更新ing~~~~~ )
+* Spring Boot/Spring Cloud全家桶
+* 分布式事务TCC/Seata
+* 数据库MySQL/Redis/MongoDB
+* RPC框架Dubbo/Github&Gitee开源优秀RPC框架
+* 搜索引擎ES
+* 容器服务Docker/Kubernetes
+* 算法LeetCode(不想刷QAQ)
 
 <img align=right src="https://github-readme-stats.vercel.app/api?username=OxCaffee&show_icons=true&theme=radical&hide_title=true"/>
 

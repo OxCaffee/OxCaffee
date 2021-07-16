@@ -19,7 +19,7 @@
 
 ✨个人努力学习清单( 持续更新ing~~~~~ )
 * Golang学习(准备转行go了)
-* Spring Boot/Spring Cloud全家桶
+* ~~Spring Boot/Spring Cloud全家桶
 * 分布式事务TCC/Seata
 * 数据库MySQL/Redis/MongoDB
 * RPC框架Dubbo/Github&Gitee开源优秀RPC框架

@@ -31,7 +31,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=OxCaffee&show_icons=true&theme=github&hide_title=true"/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OxCaffee)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OxCaffee&repo=Backend-Java-Note&show_user=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 

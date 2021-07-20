@@ -16,6 +16,7 @@
         \|__|  \|__|\|__|\|__|\|__| \|__|\|__| \|__|        \|__|\|__|\|__|\|_______|\|__|\|__|\|_______|\|__|\|__|
 
 ```
+----------------
 
 ✨个人努力学习清单( 持续更新ing~~~~~ )
 * SpringCloud/SpringBoot/Spring学习
@@ -26,6 +27,8 @@
 * 搜索引擎ES
 * 容器服务Docker/Kubernetes
 * 算法LeetCode(不想刷QAQ)
+
+---------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxCaffee&theme=github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

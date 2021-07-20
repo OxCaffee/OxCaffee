@@ -27,7 +27,11 @@
 * 容器服务Docker/Kubernetes
 * 算法LeetCode(不想刷QAQ)
 
-<img align=right src="https://github-readme-stats.vercel.app/api?username=OxCaffee&show_icons=true&theme=github&hide_title=true"/>
-
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxCaffee&theme=github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=OxCaffee&show_icons=true&theme=github&hide_title=true"/>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OxCaffee)](https://github.com/anuraghazra/github-readme-stats)
+
+
+

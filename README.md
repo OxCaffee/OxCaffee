@@ -18,7 +18,7 @@
 ```
 ----------------
 
-✨个人努力学习清单( 持续更新ing~~~~~ )
+✨ **个人努力学习清单( 持续更新ing~~~~~ )**
 * SpringCloud/SpringBoot/Spring学习
 * Golang学习(准备转行go了)
 * 分布式事务TCC/Seata
@@ -30,10 +30,12 @@
 
 ---------------
 
-<img width=50% src="https://github-readme-stats.vercel.app/api?username=OxCaffee&show_icons=true&theme=cobalt&hide_title=false"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxCaffee&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OxCaffee&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align=right width=40% src="https://github-readme-stats.vercel.app/api?username=OxCaffee&show_icons=true&theme=cobalt&hide_title=false"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxCaffee&theme=cobalt&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 

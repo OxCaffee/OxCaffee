@@ -36,6 +36,6 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OxCaffee&repo=Backend-Java-Note&show_user=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OxCaffee)](https://github.com/anuraghazra/github-readme-stats)
 
 

@@ -30,7 +30,7 @@
 
 ---------------
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OxCaffee&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=cobalt&username=OxCaffee)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=OxCaffee&show_icons=true&theme=cobalt&hide_title=false"/>
 

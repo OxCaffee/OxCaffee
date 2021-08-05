@@ -4,8 +4,8 @@
 ----------------
 
 ✨ **个人努力学习清单( 持续更新ing~~~~~ )**
-* SpringCloud/SpringBoot/Spring学习
 * Golang学习(准备转行go了)
+* Golang微服务框架middleware编写
 * 分布式事务TCC/Seata
 * 数据库MySQL/Redis/MongoDB
 * RPC框架Dubbo/Github&Gitee开源优秀RPC框架

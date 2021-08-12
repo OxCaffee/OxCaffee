@@ -21,7 +21,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxCaffee&theme=github&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OxCaffee&repo=gfblog&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 

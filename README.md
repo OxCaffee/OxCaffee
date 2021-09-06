@@ -4,11 +4,11 @@
 ----------------
 
 ✨ **个人努力学习清单( 持续更新ing~~~~~ )**
-* Golang学习(准备转行go了)
-* Golang微服务框架middleware编写
+* GoFrame Web开发学习(强烈推荐GoFrame)
+* Casbin权限认证框架钻研
 * 分布式事务TCC/Seata
 * 数据库MySQL/Redis/MongoDB
-* RPC框架Dubbo/Github&Gitee开源优秀RPC框架
+* gRPC及go-http学习
 * 搜索引擎ES
 * 容器服务Docker/Kubernetes
 * 算法LeetCode(不想刷QAQ)

@@ -1,7 +1,4 @@
-
-<div align=center><img src="https://github.com/OxCaffee/Go-Backend/blob/main/assets/go.png"/></div>
-
-----------------
+## Hi there 👋
 
 ✨ **个人努力学习清单( 持续更新ing~~~~~ )**
 * GoFrame Web开发学习(强烈推荐GoFrame)
@@ -18,9 +15,17 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=github&username=OxCaffee)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=OxCaffee&show_icons=true&theme=github&hide_title=false"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=OxCaffee&show_icons=true&theme=github&hide_title=false"/> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxCaffee&theme=github&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxCaffee&theme=github&card_width=495)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- <img align="right" width="150px" src="https://raw.githubusercontent.com/tal-tech/zero-doc/main/doc/images/go-zero.png"> -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OxCaffee&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OxCaffee&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OxCaffee&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OxCaffee&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OxCaffee&theme=github)
 
 
 

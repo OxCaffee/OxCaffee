@@ -1,15 +1,11 @@
 ## Hi there 👋
 
 ✨ **个人努力学习清单( 持续更新ing~~~~~ )**
-* GoFrame Web开发学习(强烈推荐GoFrame)
-* Casbin权限认证框架钻研
-* 分布式事务TCC/Seata
-* 数据库MySQL/Redis/MongoDB
-* gRPC及go-http学习
-* 搜索引擎ES
-* 容器服务Docker/Kubernetes
-* 算法LeetCode(不想刷QAQ)
-* 研究生要开学了，准备卷课程了，争取熬过八强争霸赛
+* Golang底层知识，汇编代码及PProf性能分析
+* gRPC源码学习
+* 大数据数据库Hadoop/Hive/HBase etc.
+* 大数据及数据挖掘(课题相关)
+* Vue(大作业要用啊啊啊啊啊)
 
 ---------------
 

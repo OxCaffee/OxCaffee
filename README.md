@@ -23,5 +23,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OxCaffee&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OxCaffee&theme=github)
 
+![Alt](https://repobeats.axiom.co/api/embed/4288cf74c31aacb50b7e2462b4ff39de4e2154f5.svg "Repobeats analytics image")
+
 
 

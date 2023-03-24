@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-✨ **个人努力学习清单( 持续更新ing~~~~~ )**
-* Golang底层知识，汇编代码及PProf性能分析
-* gRPC源码学习
-* 大数据数据库Hadoop/Hive/HBase etc.
-* 大数据及数据挖掘(课题相关)
-* Vue(大作业要用啊啊啊啊啊)
+This is from dylan, golang developer & lover's main page~~~~
 
 ---------------
 
